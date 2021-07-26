@@ -12,10 +12,10 @@ Step 3: Clean the dataset
 Step 4: Think of questions for the dataset
   1. How many total wildfire? What are the top 5 counties with the highest number of wildfire?
   2. How many total major wildfire? What are the top 5 counties with the highest number of major wildfire?
-  4. How has the number of total wildfire changed  over the years?
-  5. How has the number of major wildifre changed over the years?
-  6. What are the top 3 wildfire with the most injuries?
-  7. What are the top 4 wildfire with burnt the largest area?
+  3. How has the number of total wildfire changed  over the years?
+  4. How has the number of major wildifre changed over the years?
+  5. What are the top 3 wildfire with the most injuries?
+  6. What are the top 4 wildfire with burnt the largest area?
 
 Step 5: Analyze the data and find the answers
 
@@ -38,6 +38,7 @@ Question 1
     2.3 Sort the "# Major Incident" column descendingly.
   Result:
   - 383 major wildfire occurred in 2013-2019.
+  - 
   <img width="217" alt="Screen Shot 2021-07-26 at 11 49 35 AM" src="https://user-images.githubusercontent.com/69986804/127042635-aa07e41a-e1ae-480e-b94c-0c2e309a354e.png">
   
  Question 3
@@ -45,7 +46,8 @@ Question 1
     3.1 Make a new pivot table. Choose "Archive Year" as the row. Add COUNTA "CalFireincident" as Values.
     3.2 Copy and paste the result into a new tab. Add column titles "Year" and "# Wildfire". Freeze and bold the titles. 
     
-    Result: 
+ Result: 
+    
     <img width="139" alt="Screen Shot 2021-07-26 at 12 00 09 PM" src="https://user-images.githubusercontent.com/69986804/127043871-06163c5e-17f1-4c94-a1cf-ae441395919b.png">
 
   Question 4
@@ -53,7 +55,7 @@ Question 1
     4.1 Go back to the pivot table. Add a filter of "Major Incident: True"
     4.2 Copy and paste the result into a new tab. Add column titles "Year" and "# Wildfire". Freeze and bold the titles. 
     
-    Result: 
+  Result: 
     <img width="174" alt="Screen Shot 2021-07-26 at 12 01 45 PM" src="https://user-images.githubusercontent.com/69986804/127044073-96142669-4673-4bce-9a3e-0f1d55c5744e.png">
 
   Question 5
@@ -62,7 +64,7 @@ Question 1
     5.2 Sort the "Injuries" column descendingly. 
     5.3 Create a new tab and put the Top 3 most injuried Fire to it. Include the Name, Injuries, Year and County. 
     
-    Result:
+  Result:
     <img width="439" alt="Screen Shot 2021-07-26 at 12 08 59 PM" src="https://user-images.githubusercontent.com/69986804/127045061-ff252d31-f511-47c7-8865-8d287947cae2.png">
     
   Question 6
@@ -71,7 +73,6 @@ Question 1
     6.2 Sort the "AcresBurned" column descendingly. 
     6.3 Create a new tab and put the Top 4 most burned Fire to it. Include the Name, AcresBurned, Year and County. 
     
-    Result:
-    <img width="439" alt="Screen Shot 2021-07-26 at 12 08 59 PM" src="https://user-images.githubusercontent.com/69986804/127045061-ff252d31-f511-47c7-8865-8d287947cae2.png">
+  Result:
 
     
