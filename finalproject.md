@@ -1,16 +1,15 @@
 # J124 Final Project - Winnie Lau
 Intro to Data Journalism Markdown Final Project Process
 
-<h4> Step 1: download the cvs file dataset from https://www.kaggle.com/ananthu017/california-wildfire-incidents-20132020.
+**Step 1: download the cvs file dataset from https://www.kaggle.com/ananthu017/california-wildfire-incidents-20132020.**
 
-<h4> Step 2: import the cvs file into Google Drive and open it as Google Form.
+**Step 2: import the cvs file into Google Drive and open it as Google Form.**
 
-<h4> Step 3: Clean the dataset
+**Step 3: Clean the dataset**
   - freeze and bold the first row
   - look for error or anomalies
 
-<h4> Step 4: Think of questions for the dataset
-<h5>  
+**Step 4: Think of questions for the dataset**
   
   1. How many total wildfire? What are the top 5 counties with the highest number of wildfire?
   2. How many total major wildfire? What are the top 5 counties with the highest number of major wildfire?
@@ -20,13 +19,12 @@ Intro to Data Journalism Markdown Final Project Process
   6. What are the top 4 wildfire with burnt the largest area?
   7. How is the started months of wildfire changed in 2013-2019?
 
-<h4> Step 5: Analyze the data and find the answers
+**Step 5: Analyze the data and find the answers**
 
-<h5>First, bold and freeze the column names. 
+First, bold and freeze the column names. 
   
 
-<h4> Question 1
-<h5>
+**Question 1**
   
     1.1 Create a pivot table, choose "Counties" as the rows, and add COUNTA "CalFireincident" as Values.
     1.2 Copy and paste the result into a new tab. Add column titles "County" and "# WildFire". Freeze and bold the titles. 
@@ -37,8 +35,7 @@ Intro to Data Journalism Markdown Final Project Process
  <img width="220" alt="Screen Shot 2021-07-26 at 11 35 26 AM" src="https://user-images.githubusercontent.com/69986804/127040763-3c4f3f79-d91e-4863-bb25-bfe15a958cd5.png">
  
 
-  <h4> Question 2
- <h5>
+**Question 2**
    
     2.1 Go back to the pivot table. Add a filter of "Major Incident: True"
     2.2 Copy and paste the result into a new tab. Add column titles "County" and "# Major Incident". Freeze and bold the titles. 
@@ -48,8 +45,7 @@ Intro to Data Journalism Markdown Final Project Process
   
   <img width="217" alt="Screen Shot 2021-07-26 at 11 49 35 AM" src="https://user-images.githubusercontent.com/69986804/127042635-aa07e41a-e1ae-480e-b94c-0c2e309a354e.png">
   
- <h4> Question 3
- <h5>
+**Question 3**
    
     3.1 Make a new pivot table. Choose "Archive Year" as the row. Add COUNTA "CalFireincident" as Values.
     3.2 Copy and paste the result into a new tab. Add column titles "Year" and "# Wildfire". Freeze and bold the titles. 
@@ -58,8 +54,7 @@ Intro to Data Journalism Markdown Final Project Process
     
   <img width="139" alt="Screen Shot 2021-07-26 at 12 00 09 PM" src="https://user-images.githubusercontent.com/69986804/127043871-06163c5e-17f1-4c94-a1cf-ae441395919b.png">
 
-  <h4> Question 4
-  <h5>
+**Question 4**
     
     4.1 Go back to the pivot table. Add a filter of "Major Incident: True"
     4.2 Copy and paste the result into a new tab. Add column titles "Year" and "# Wildfire". Freeze and bold the titles. 
@@ -68,8 +63,7 @@ Intro to Data Journalism Markdown Final Project Process
   
    <img width="174" alt="Screen Shot 2021-07-26 at 12 01 45 PM" src="https://user-images.githubusercontent.com/69986804/127044073-96142669-4673-4bce-9a3e-0f1d55c5744e.png">
 
- <h4> Question 5
-<h5>
+**Question 5**
   
     5.1 Go to the original tab.  
     5.2 Sort the "Injuries" column descendingly. 
@@ -79,8 +73,7 @@ Intro to Data Journalism Markdown Final Project Process
   
     <img width="439" alt="Screen Shot 2021-07-26 at 12 08 59 PM" src="https://user-images.githubusercontent.com/69986804/127045061-ff252d31-f511-47c7-8865-8d287947cae2.png">
     
- <h4> Question 6
-<h5>
+**Question 6**
   
     6.1 Go to the original tab.  
     6.2 Sort the "AcresBurned" column descendingly. 
@@ -91,8 +84,7 @@ Intro to Data Journalism Markdown Final Project Process
   <img width="573" alt="Screen Shot 2021-07-27 at 2 55 09 PM" src="https://user-images.githubusercontent.com/69986804/127232686-5a82dd0d-217e-4654-80b4-b5dc8a8943d5.png">
 
 
-<h4> Question 7
-<h5>
+**Question 7**
   
     7.1 Go to the original tab.  Create a new column left to the column "Started" and named it "Started Clean". 
     7.2 In the AF2 cell, type =left(AG2,10). Apply the function to the whole column.
