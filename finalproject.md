@@ -99,7 +99,8 @@ First, bold and freeze the column names.
     
    Result:
    
-   <img width="601" alt="Screen Shot 2021-07-27 at 2 25 51 PM" src="https://user-images.githubusercontent.com/69986804/127229567-9353d882-d5de-4ee3-a8dd-182e1992d985.png">
+ <img width="602" alt="Screen Shot 2021-07-27 at 3 26 41 PM" src="https://user-images.githubusercontent.com/69986804/127235575-9ae2e9fd-07da-43a4-ae0c-5d1c24bfb5de.png">
+
 
     
 
