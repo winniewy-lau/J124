@@ -11,13 +11,13 @@ Intro to Data Journalism Markdown Final Project Process
 
 **Step 4: Think of questions for the dataset**
   
-  1. How many total wildfire? What are the top 5 counties with the highest number of wildfire?
-  2. How many total major wildfire? What are the top 5 counties with the highest number of major wildfire?
+  1. How many wildfire in total in 2013-2019? What are the top 5 counties with the highest number of wildfire?
+  2. How many major wildfire in 2013-2019? What are the top 5 counties with the highest number of major wildfire?
   3. How has the number of total wildfire changed  over the years?
   4. How has the number of major wildifre changed over the years?
   5. What are the top 3 wildfire with the most injuries?
-  6. What are the top 4 wildfire with burnt the largest area?
-  7. How is the started months of wildfire changed in 2013-2019?
+  6. What are the top 4 wildfire with largest burned area?
+  7. What were the count of wildfire in each month over 2013-2019?
 
 **Step 5: Analyze the data and find the answers**
 
