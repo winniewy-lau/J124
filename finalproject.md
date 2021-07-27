@@ -39,7 +39,7 @@ Question 1
     2.3 Sort the "# Major Incident" column descendingly.
   Result:
   - 383 major wildfire occurred in 2013-2019.
-  - 
+  
   <img width="217" alt="Screen Shot 2021-07-26 at 11 49 35 AM" src="https://user-images.githubusercontent.com/69986804/127042635-aa07e41a-e1ae-480e-b94c-0c2e309a354e.png">
   
  Question 3
@@ -49,7 +49,7 @@ Question 1
     
  Result: 
     
-   <img width="139" alt="Screen Shot 2021-07-26 at 12 00 09 PM" src="https://user-images.githubusercontent.com/69986804/127043871-06163c5e-17f1-4c94-a1cf-ae441395919b.png">
+  <img width="139" alt="Screen Shot 2021-07-26 at 12 00 09 PM" src="https://user-images.githubusercontent.com/69986804/127043871-06163c5e-17f1-4c94-a1cf-ae441395919b.png">
 
   Question 4
   
@@ -57,7 +57,8 @@ Question 1
     4.2 Copy and paste the result into a new tab. Add column titles "Year" and "# Wildfire". Freeze and bold the titles. 
     
   Result: 
-    <img width="174" alt="Screen Shot 2021-07-26 at 12 01 45 PM" src="https://user-images.githubusercontent.com/69986804/127044073-96142669-4673-4bce-9a3e-0f1d55c5744e.png">
+  
+   <img width="174" alt="Screen Shot 2021-07-26 at 12 01 45 PM" src="https://user-images.githubusercontent.com/69986804/127044073-96142669-4673-4bce-9a3e-0f1d55c5744e.png">
 
   Question 5
 
@@ -66,6 +67,7 @@ Question 1
     5.3 Create a new tab and put the Top 3 most injuried Fire to it. Include the Name, Injuries, Year and County. 
     
   Result:
+  
     <img width="439" alt="Screen Shot 2021-07-26 at 12 08 59 PM" src="https://user-images.githubusercontent.com/69986804/127045061-ff252d31-f511-47c7-8865-8d287947cae2.png">
     
   Question 6
@@ -75,6 +77,7 @@ Question 1
     6.3 Create a new tab and put the Top 4 most burned Fire to it. Include the Name, AcresBurned, Year and County. 
     
   Result: 
+  
   <img width="573" alt="Screen Shot 2021-07-27 at 2 55 09 PM" src="https://user-images.githubusercontent.com/69986804/127232686-5a82dd0d-217e-4654-80b4-b5dc8a8943d5.png">
 
 
@@ -92,6 +95,7 @@ Question 1
     7.10 Make a chart. 
     
    Result:
+   
    <img width="601" alt="Screen Shot 2021-07-27 at 2 25 51 PM" src="https://user-images.githubusercontent.com/69986804/127229567-9353d882-d5de-4ee3-a8dd-182e1992d985.png">
 
     
