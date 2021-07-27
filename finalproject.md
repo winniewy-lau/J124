@@ -1,4 +1,4 @@
-# J124
+# J124 Final Project - Winnie Lau
 Intro to Data Journalism Markdown Final Project Process
 
 <h4> Step 1: download the cvs file dataset from https://www.kaggle.com/ananthu017/california-wildfire-incidents-20132020.
