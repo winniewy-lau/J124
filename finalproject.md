@@ -16,6 +16,7 @@ Step 4: Think of questions for the dataset
   4. How has the number of major wildifre changed over the years?
   5. What are the top 3 wildfire with the most injuries?
   6. What are the top 4 wildfire with burnt the largest area?
+  7. How is the started months of wildfire changed in 2013-2019?
 
 Step 5: Analyze the data and find the answers
 
@@ -73,6 +74,26 @@ Question 1
     6.2 Sort the "AcresBurned" column descendingly. 
     6.3 Create a new tab and put the Top 4 most burned Fire to it. Include the Name, AcresBurned, Year and County. 
     
-  Result:
+  Result: 
+  <img width="573" alt="Screen Shot 2021-07-27 at 2 55 09 PM" src="https://user-images.githubusercontent.com/69986804/127232686-5a82dd0d-217e-4654-80b4-b5dc8a8943d5.png">
+
+
+  Question 7
+
+    7.1 Go to the original tab.  Create a new column left to the column "Started" and named it "Started Clean". 
+    7.2 In the AF2 cell, type =left(AG2,10). Apply the function to the whole column.
+    7.3 Copy and paste the column into a new tab.
+    7.4 Find and replace - into /. Change the column format into Datetime.
+    7.5 Copy and paste the column back to the original tab.
+    7.6 Create a new pivot table. Choose "Started Clean" as rows and SUM "CalFireincident" as values.
+    7.7 Right click one of the cells in the "StartClean" column. Select "Create pivot date group" and "Year-Month". 
+    7.8 Copy and paste the result into a new tab.
+    7.9 Maunally make the year as columns.
+    7.10 Make a chart. 
+    
+   Result:
+   <img width="601" alt="Screen Shot 2021-07-27 at 2 25 51 PM" src="https://user-images.githubusercontent.com/69986804/127229567-9353d882-d5de-4ee3-a8dd-182e1992d985.png">
+
+    
 
     
