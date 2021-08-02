@@ -17,7 +17,8 @@ Intro to Data Journalism Markdown Final Project Process
   4. How has the number of major wildifre changed over the years?
   5. What are the top 3 wildfire with the most injuries?
   6. What are the top 4 wildfire with largest burned area?
-  7. What were the count of wildfire in each month over 2013-2019?
+  7. How are trend of areas burned by wildfires in 2013-2019?
+  8. What were the count of wildfire in each month over 2013-2019?
 
 **Step 5: Analyze the data and find the answers**
 
@@ -83,19 +84,28 @@ First, bold and freeze the column names.
   
   <img width="573" alt="Screen Shot 2021-07-27 at 2 55 09 PM" src="https://user-images.githubusercontent.com/69986804/127232686-5a82dd0d-217e-4654-80b4-b5dc8a8943d5.png">
 
-
 **Question 7**
+
+    7.1 Create a new pivot table. 
+    7.2 Choose "Archive Year" as the row. Add SUM "AcresBurned" as Values.
+    
+   Result:
+   
+<img width="237" alt="Screen Shot 2021-08-02 at 3 12 31 PM" src="https://user-images.githubusercontent.com/69986804/127932327-5cf48638-b6f4-4fed-9096-7e982a5a2358.png">
+
+
+**Question 8**
   
-    7.1 Go to the original tab.  Create a new column left to the column "Started" and named it "Started Clean". 
-    7.2 In the AF2 cell, type =left(AG2,10). Apply the function to the whole column.
-    7.3 Copy and paste the column into a new tab.
-    7.4 Find and replace - into /. Change the column format into Datetime.
-    7.5 Copy and paste the column back to the original tab.
-    7.6 Create a new pivot table. Choose "Started Clean" as rows and SUM "CalFireincident" as values.
-    7.7 Right click one of the cells in the "StartClean" column. Select "Create pivot date group" and "Year-Month". 
-    7.8 Copy and paste the result into a new tab.
-    7.9 Maunally make the year as columns.
-    7.10 Make a chart. 
+    8.1 Go to the original tab.  Create a new column left to the column "Started" and named it "Started Clean". 
+    8.2 In the AF2 cell, type =left(AG2,10). Apply the function to the whole column.
+    8.3 Copy and paste the column into a new tab.
+    8.4 Find and replace - into /. Change the column format into Datetime.
+    8.5 Copy and paste the column back to the original tab.
+    8.6 Create a new pivot table. Choose "Started Clean" as rows and SUM "CalFireincident" as values.
+    8.7 Right click one of the cells in the "StartClean" column. Select "Create pivot date group" and "Year-Month". 
+    8.8 Copy and paste the result into a new tab.
+    8.9 Maunally make the year as columns.
+    8.10 Make a chart. 
     
    Result:
    
@@ -103,7 +113,8 @@ First, bold and freeze the column names.
 
 
 **Story Idea**
-According to data, wildfires were concentrated in Riverside and San Diego. The number of wildfires has been increasing sicne 2013, with the most in 2017 and 2018. The data story will be about the trend of California wildfire and the atmospheric and geogrphical factors affecting the scale and severeness of the wildfires. In particular, the story will focus on the relationship between climate change and the severeness of wildfire. 
+
+According to data, wildfires were concentrated in Riverside and San Diego. The number of wildfires has been increasing sicne 2013, with the most in 2017 and 2018. The data also shows that there is a trend of wildfires starting later than previous years. The data story will be about the trend of California wildfire and the atmospheric and geogrphical factors affecting the scale and severeness of the wildfires. In particular, the story will focus on the relationship between climate change and the severeness of wildfire. 
 
 I would interview CalFire Northern Region Chief,	Mike Bradley, (530) 224-2460, and CalFire Southern Region Chief,	Dave Fulcher,	 (559) 243-4127 for their comments on the wildfire trend. I would also interview experts in wildfires, for example, UCLA Climate scientist, Daniel Swain, PhD, (dlswain@ucla.edu). He studies how the atmospheric phenomena increases the risk of severe wildfires. His insight would add the relationship between climate change and wildfire to the story. I would also interview UC Davis Department of Public Health Sciences Professor Irva Hertz-Picciotto (ihp@ucdavis.edu). She studies the potential health impacts of wildfire, smoke and ash. She would add the impact of wildfires to the story. 
 
@@ -111,6 +122,7 @@ Regarding additional sources, I would use the statistics of wildfires on CalFire
 
 
 **Data visualization**
+
 
 ![EKQT7-number-of-wildfire-in-california-in-2013-2019](https://user-images.githubusercontent.com/69986804/127788365-d8d0fec7-a71d-45ac-b641-6a2b07d89de9.png)
 
