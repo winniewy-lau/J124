@@ -123,7 +123,6 @@ Regarding additional sources, I would use the statistics of wildfires on CalFire
 
 **Data visualization**
 
-
-![EKQT7-number-of-wildfire-in-california-in-2013-2019](https://user-images.githubusercontent.com/69986804/127788365-d8d0fec7-a71d-45ac-b641-6a2b07d89de9.png)
+<img src="https://user-images.githubusercontent.com/69986804/127788365-d8d0fec7-a71d-45ac-b641-6a2b07d89de9.png"  width=50% height=50%>
 
 Link: //www.datawrapper.de/_/EKQT7/
