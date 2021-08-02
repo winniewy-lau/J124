@@ -102,6 +102,16 @@ First, bold and freeze the column names.
  <img width="602" alt="Screen Shot 2021-07-27 at 3 26 41 PM" src="https://user-images.githubusercontent.com/69986804/127235575-9ae2e9fd-07da-43a4-ae0c-5d1c24bfb5de.png">
 
 
-    
+**Story Idea**
+According to data, wildfires were concentrated in Riverside and San Diego. The number of wildfires has been increasing sicne 2013, with the most in 2017 and 2018. The data story will be about the trend of California wildfire and the atmospheric and geogrphical factors affecting the scale and severeness of the wildfires. In particular, the story will focus on the relationship between climate change and the severeness of wildfire. 
 
-    
+I would interview CalFire Northern Region Chief,	Mike Bradley, (530) 224-2460, and CalFire Southern Region Chief,	Dave Fulcher,	 (559) 243-4127 for their comments on the wildfire trend. I would also interview experts in wildfires, for example, UCLA Climate scientist, Daniel Swain, PhD, (dlswain@ucla.edu). He studies how the atmospheric phenomena increases the risk of severe wildfires. His insight would add the relationship between climate change and wildfire to the story. I would also interview UC Davis Department of Public Health Sciences Professor Irva Hertz-Picciotto (ihp@ucdavis.edu). She studies the potential health impacts of wildfire, smoke and ash. She would add the impact of wildfires to the story. 
+
+Regarding additional sources, I would use the statistics of wildfires on CalFire website (https://www.fire.ca.gov/stats-events/), because it tells us the most updated statisitics, including the fires in 2020 and 2021. I would also use the report on "Top 20 Largest California Wildfires" by CalFire (https://www.fire.ca.gov/media/4jandlhh/top20_acres.pdf), because it tells us the trend of more severe wildfire in California. The report shows that four out of the top 5 largest California Wildfires occurred in 2020. 
+
+
+**Data visualization**
+
+![EKQT7-number-of-wildfire-in-california-in-2013-2019](https://user-images.githubusercontent.com/69986804/127788365-d8d0fec7-a71d-45ac-b641-6a2b07d89de9.png)
+
+Link: //www.datawrapper.de/_/EKQT7/
