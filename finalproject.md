@@ -41,7 +41,7 @@ First, bold and freeze the column names.
 **Question 2**
    
     2.1 Go back to the pivot table. Add a filter of "Major Incident: True"
-   <img src="https://user-images.githubusercontent.com/69986804/128897068-f5f0d45a-ad5d-429e-8b1c-a39e8cdc1bea.png" wide=10%, height=10%>
+<img width="603" alt="Screen Shot 2021-08-10 at 9 28 20 AM" src="https://user-images.githubusercontent.com/69986804/128899703-9fda8054-fba7-4c6a-9d14-ea0a5e17a4a3.png" width=50%, height=50%> 
 
     2.2 Copy and paste the result into a new tab. Add column titles "County" and "# Major Incident". Freeze and bold the titles. 
     2.3 Sort the "# Major Incident" column descendingly.
