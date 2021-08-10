@@ -74,9 +74,10 @@ First, bold and freeze the column names.
   
     5.1 Go to the original tab.  
     5.2 Sort the "Fatalities" column descendingly. 
-    5.3 Create a new tab and put the Top 3 most injuried Fire to it. Include the Name, Fatalities, Year and County. 
+    5.3 Create a new tab and put the Top 3 most deadliest Fire to it. Include the Name, Fatalities, Year and County. 
     
   **Result:** 
+  
   <img width="502" alt="Screen Shot 2021-08-10 at 10 13 25 AM" src="https://user-images.githubusercontent.com/69986804/128904507-fb27dfd7-20df-49a7-9481-2da80632c943.png">
   
     
