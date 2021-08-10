@@ -32,7 +32,7 @@ First, bold and freeze the column names.
 
     1.2 Copy and paste the result into a new tab. Add column titles "County" and "# WildFire". Freeze and bold the titles. 
     1.3 Sort the "# WildFire" column descendingly.
-  Result: 
+  **Result:** 
   - 1636 wildfire occurred in 2013-2019.
 
  <img width="220" alt="Screen Shot 2021-07-26 at 11 35 26 AM" src="https://user-images.githubusercontent.com/69986804/127040763-3c4f3f79-d91e-4863-bb25-bfe15a958cd5.png">
@@ -45,7 +45,7 @@ First, bold and freeze the column names.
 
     2.2 Copy and paste the result into a new tab. Add column titles "County" and "# Major Incident". Freeze and bold the titles. 
     2.3 Sort the "# Major Incident" column descendingly.
-  Result:
+ **Result:** 
   - 383 major wildfire occurred in 2013-2019.
   
   <img width="217" alt="Screen Shot 2021-07-26 at 11 49 35 AM" src="https://user-images.githubusercontent.com/69986804/127042635-aa07e41a-e1ae-480e-b94c-0c2e309a354e.png">
@@ -55,7 +55,7 @@ First, bold and freeze the column names.
     3.1 Make a new pivot table. Choose "Archive Year" as the row. Add COUNTA "CalFireincident" as Values.
     3.2 Copy and paste the result into a new tab. Add column titles "Year" and "# Wildfire". Freeze and bold the titles. 
     
- Result: 
+ ** Result:**  
     
   <img width="139" alt="Screen Shot 2021-07-26 at 12 00 09 PM" src="https://user-images.githubusercontent.com/69986804/127043871-06163c5e-17f1-4c94-a1cf-ae441395919b.png">
 
@@ -66,7 +66,7 @@ First, bold and freeze the column names.
 
     4.2 Copy and paste the result into a new tab. Add column titles "Year" and "# Wildfire". Freeze and bold the titles. 
     
-  Result: 
+  ** Result:**  
   
    <img width="174" alt="Screen Shot 2021-07-26 at 12 01 45 PM" src="https://user-images.githubusercontent.com/69986804/127044073-96142669-4673-4bce-9a3e-0f1d55c5744e.png">
 
@@ -76,7 +76,7 @@ First, bold and freeze the column names.
     5.2 Sort the "Injuries" column descendingly. 
     5.3 Create a new tab and put the Top 3 most injuried Fire to it. Include the Name, Injuries, Year and County. 
     
-  Result:
+  ** Result:** 
   
    <img width="439" alt="Screen Shot 2021-07-26 at 12 08 59 PM" src="https://user-images.githubusercontent.com/69986804/127045061-ff252d31-f511-47c7-8865-8d287947cae2.png">
     
@@ -86,7 +86,7 @@ First, bold and freeze the column names.
     6.2 Sort the "AcresBurned" column descendingly. 
     6.3 Create a new tab and put the Top 4 most burned Fire to it. Include the Name, AcresBurned, Year and County. 
     
-  Result: 
+  **Result:**  
   
   <img width="573" alt="Screen Shot 2021-07-27 at 2 55 09 PM" src="https://user-images.githubusercontent.com/69986804/127232686-5a82dd0d-217e-4654-80b4-b5dc8a8943d5.png">
 
@@ -95,7 +95,7 @@ First, bold and freeze the column names.
     7.1 Create a new pivot table. 
     7.2 Choose "Archive Year" as the row. Add SUM "AcresBurned" as Values.
     
-   Result:
+  **Result:** 
    
 <img width="237" alt="Screen Shot 2021-08-02 at 3 12 31 PM" src="https://user-images.githubusercontent.com/69986804/127932327-5cf48638-b6f4-4fed-9096-7e982a5a2358.png">
 
@@ -119,7 +119,7 @@ First, bold and freeze the column names.
     
     8.10 Make a chart. 
     
-   Result:
+  **Result:** 
    
  <img width="602" alt="Screen Shot 2021-07-27 at 3 26 41 PM" src="https://user-images.githubusercontent.com/69986804/127235575-9ae2e9fd-07da-43a4-ae0c-5d1c24bfb5de.png">
 
