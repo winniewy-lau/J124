@@ -15,7 +15,7 @@ Intro to Data Journalism Markdown Final Project Process
   2. How many major wildfire in 2013-2019? What are the top 5 counties with the highest number of major wildfire?
   3. How has the number of total wildfire changed  over the years?
   4. How has the number of major wildifre changed over the years?
-  5. What are the top 3 wildfire with the most injuries?
+  5. What are the top 3 deadliest wildfire?
   6. What are the top 4 wildfire with largest burned area?
   7. How are trend of areas burned by wildfires in 2013-2019?
   8. What were the count of wildfire in each month over 2013-2019?
@@ -73,12 +73,12 @@ First, bold and freeze the column names.
 **Question 5**
   
     5.1 Go to the original tab.  
-    5.2 Sort the "Injuries" column descendingly. 
-    5.3 Create a new tab and put the Top 3 most injuried Fire to it. Include the Name, Injuries, Year and County. 
+    5.2 Sort the "Fatalities" column descendingly. 
+    5.3 Create a new tab and put the Top 3 most injuried Fire to it. Include the Name, Fatalities, Year and County. 
     
-  ** Result:** 
+  **Result:** 
+  <img width="502" alt="Screen Shot 2021-08-10 at 10 13 25 AM" src="https://user-images.githubusercontent.com/69986804/128904507-fb27dfd7-20df-49a7-9481-2da80632c943.png">
   
-   <img width="439" alt="Screen Shot 2021-07-26 at 12 08 59 PM" src="https://user-images.githubusercontent.com/69986804/127045061-ff252d31-f511-47c7-8865-8d287947cae2.png">
     
 **Question 6**
   
