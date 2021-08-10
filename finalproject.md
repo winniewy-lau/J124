@@ -28,6 +28,8 @@ First, bold and freeze the column names.
 **Question 1**
   
     1.1 Create a pivot table, choose "Counties" as the rows, and add COUNTA "CalFireincident" as Values.
+  <img width="605" alt="Screen Shot 2021-08-10 at 9 27 42 AM" src="https://user-images.githubusercontent.com/69986804/128896978-96dc59e9-9083-4c7a-9951-2656dd5b029c.png">
+
     1.2 Copy and paste the result into a new tab. Add column titles "County" and "# WildFire". Freeze and bold the titles. 
     1.3 Sort the "# WildFire" column descendingly.
   Result: 
@@ -39,6 +41,8 @@ First, bold and freeze the column names.
 **Question 2**
    
     2.1 Go back to the pivot table. Add a filter of "Major Incident: True"
+    <img width="603" alt="Screen Shot 2021-08-10 at 9 28 20 AM" src="https://user-images.githubusercontent.com/69986804/128897068-f5f0d45a-ad5d-429e-8b1c-a39e8cdc1bea.png">
+
     2.2 Copy and paste the result into a new tab. Add column titles "County" and "# Major Incident". Freeze and bold the titles. 
     2.3 Sort the "# Major Incident" column descendingly.
   Result:
@@ -58,6 +62,8 @@ First, bold and freeze the column names.
 **Question 4**
     
     4.1 Go back to the pivot table. Add a filter of "Major Incident: True"
+    <img width="600" alt="Screen Shot 2021-08-10 at 9 29 17 AM" src="https://user-images.githubusercontent.com/69986804/128897271-c795f56a-4f8d-4ca1-a324-6bf33449141d.png">
+
     4.2 Copy and paste the result into a new tab. Add column titles "Year" and "# Wildfire". Freeze and bold the titles. 
     
   Result: 
@@ -98,13 +104,16 @@ First, bold and freeze the column names.
   
     8.1 Go to the original tab.  Create a new column left to the column "Started" and named it "Started Clean". 
     8.2 In the AF2 cell, type =left(AG2,10). Apply the function to the whole column.
-    8.3 Copy and paste the column into a new tab.
+    8.3 Copy and paste the column into a new tab
     8.4 Find and replace - into /. Change the column format into Datetime.
     8.5 Copy and paste the column back to the original tab.
+        <img width="290" alt="Screen Shot 2021-08-10 at 9 31 42 AM" src="https://user-images.githubusercontent.com/69986804/128897627-526f02bd-6e1d-4a9b-a3fa-76178683f25d.png">
     8.6 Create a new pivot table. Choose "Started Clean" as rows and SUM "CalFireincident" as values.
     8.7 Right click one of the cells in the "StartClean" column. Select "Create pivot date group" and "Year-Month". 
+    <img width="823" alt="Screen Shot 2021-08-10 at 9 33 37 AM" src="https://user-images.githubusercontent.com/69986804/128898049-7b8bd6dc-3c1b-4408-a20d-e0bac9723d7d.png">
     8.8 Copy and paste the result into a new tab.
     8.9 Maunally make the year as columns.
+     <img width="732" alt="Screen Shot 2021-08-10 at 9 35 07 AM" src="https://user-images.githubusercontent.com/69986804/128898244-23df6b65-202a-4c8d-841c-d8383da4d2d9.png">
     8.10 Make a chart. 
     
    Result:
