@@ -81,7 +81,7 @@ First, bold and freeze the column names.
   <img width="502" alt="Screen Shot 2021-08-10 at 10 13 25 AM" src="https://user-images.githubusercontent.com/69986804/128904507-fb27dfd7-20df-49a7-9481-2da80632c943.png">
   
     
-**Question 6 What are the top 4 wildfire with largest burned area?**
+**Question 6 What are the top 3 wildfire with largest burned area?**
   
     6.1 Go to the original tab.  
     6.2 Sort the "AcresBurned" column descendingly. 
