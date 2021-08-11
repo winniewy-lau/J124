@@ -1,4 +1,4 @@
-# J124 Final Project - Winnie Lau
+# J124 Final Project: California Wildfires 2013-2019 - Winnie Lau
 Intro to Data Journalism Markdown Final Project Process
 
 **Step 1: download the cvs file dataset from https://www.kaggle.com/ananthu017/california-wildfire-incidents-20132020.**
@@ -25,7 +25,7 @@ Intro to Data Journalism Markdown Final Project Process
 First, bold and freeze the column names. 
   
 
-**Question 1**
+**Question 1 How many wildfire in total in 2013-2019? What are the top 5 counties with the highest number of wildfire?
   
     1.1 Create a pivot table, choose "Counties" as the rows, and add COUNTA "CalFireincident" as Values.
   <img src="https://user-images.githubusercontent.com/69986804/128896978-96dc59e9-9083-4c7a-9951-2656dd5b029c.png" width=50%, height=50%>
@@ -38,7 +38,7 @@ First, bold and freeze the column names.
  <img width="220" alt="Screen Shot 2021-07-26 at 11 35 26 AM" src="https://user-images.githubusercontent.com/69986804/127040763-3c4f3f79-d91e-4863-bb25-bfe15a958cd5.png">
  
 
-**Question 2**
+**Question 2 How many major wildfire in 2013-2019? What are the top 5 counties with the highest number of major wildfire?** 
    
     2.1 Go back to the pivot table. Add a filter of "Major Incident: True"
 <img width="603" alt="Screen Shot 2021-08-10 at 9 28 20 AM" src="https://user-images.githubusercontent.com/69986804/128899703-9fda8054-fba7-4c6a-9d14-ea0a5e17a4a3.png" width=50%, height=50%> 
@@ -50,16 +50,16 @@ First, bold and freeze the column names.
   
   <img width="217" alt="Screen Shot 2021-07-26 at 11 49 35 AM" src="https://user-images.githubusercontent.com/69986804/127042635-aa07e41a-e1ae-480e-b94c-0c2e309a354e.png">
   
-**Question 3**
+**Question 3 How has the number of total wildfire changed  over the years?**
    
     3.1 Make a new pivot table. Choose "Archive Year" as the row. Add COUNTA "CalFireincident" as Values.
     3.2 Copy and paste the result into a new tab. Add column titles "Year" and "# Wildfire". Freeze and bold the titles. 
     
- ** Result:**  
+ **Result:**  
     
   <img width="139" alt="Screen Shot 2021-07-26 at 12 00 09 PM" src="https://user-images.githubusercontent.com/69986804/127043871-06163c5e-17f1-4c94-a1cf-ae441395919b.png">
 
-**Question 4**
+**Question 4 How has the number of major wildifre changed over the years?**
     
     4.1 Go back to the pivot table. Add a filter of "Major Incident: True"
    <img src="https://user-images.githubusercontent.com/69986804/128897271-c795f56a-4f8d-4ca1-a324-6bf33449141d.png" width=50%, height=50%>
@@ -70,7 +70,7 @@ First, bold and freeze the column names.
   
    <img width="174" alt="Screen Shot 2021-07-26 at 12 01 45 PM" src="https://user-images.githubusercontent.com/69986804/127044073-96142669-4673-4bce-9a3e-0f1d55c5744e.png">
 
-**Question 5**
+**Question 5 What are the top 3 deadliest wildfire?**
   
     5.1 Go to the original tab.  
     5.2 Sort the "Fatalities" column descendingly. 
@@ -81,7 +81,7 @@ First, bold and freeze the column names.
   <img width="502" alt="Screen Shot 2021-08-10 at 10 13 25 AM" src="https://user-images.githubusercontent.com/69986804/128904507-fb27dfd7-20df-49a7-9481-2da80632c943.png">
   
     
-**Question 6**
+**Question 6 What are the top 4 wildfire with largest burned area?**
   
     6.1 Go to the original tab.  
     6.2 Sort the "AcresBurned" column descendingly. 
@@ -91,7 +91,7 @@ First, bold and freeze the column names.
   
   <img width="573" alt="Screen Shot 2021-07-27 at 2 55 09 PM" src="https://user-images.githubusercontent.com/69986804/127232686-5a82dd0d-217e-4654-80b4-b5dc8a8943d5.png">
 
-**Question 7**
+**Question 7 How are trend of areas burned by wildfires in 2013-2019?**
 
     7.1 Create a new pivot table. 
     7.2 Choose "Archive Year" as the row. Add SUM "AcresBurned" as Values.
@@ -101,7 +101,7 @@ First, bold and freeze the column names.
 <img width="237" alt="Screen Shot 2021-08-02 at 3 12 31 PM" src="https://user-images.githubusercontent.com/69986804/127932327-5cf48638-b6f4-4fed-9096-7e982a5a2358.png">
 
 
-**Question 8**
+**Question 8 What were the count of wildfire in each month over 2013-2019?**
   
     8.1 Go to the original tab.  Create a new column left to the column "Started" and named it "Started Clean". 
     8.2 In the AF2 cell, type =left(AG2,10). Apply the function to the whole column.
