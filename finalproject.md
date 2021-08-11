@@ -136,7 +136,7 @@ Regarding additional sources, I would use the statistics of wildfires on CalFire
 
 **Data visualization**
 
-<img src="https://user-images.githubusercontent.com/69986804/129113217-46772a1e-ef25-4f4a-9e60-5987057824a2.pn" width=50% height=50%><img src="https://user-images.githubusercontent.com/69986804/129111960-ca82fa5b-eaf3-4deb-a137-02ae1e78f3a9.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/69986804/129113217-46772a1e-ef25-4f4a-9e60-5987057824a2.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/69986804/129111960-ca82fa5b-eaf3-4deb-a137-02ae1e78f3a9.png" width=50% height=50%>
 
 Link: https://www.datawrapper.de/_/EKQT7/
 
