@@ -25,7 +25,7 @@ Intro to Data Journalism Markdown Final Project Process
 First, bold and freeze the column names. 
   
 
-**Question 1 How many wildfire in total in 2013-2019? What are the top 5 counties with the highest number of wildfire?
+**Question 1 How many wildfire in total in 2013-2019? What are the top 5 counties with the highest number of wildfire?**
   
     1.1 Create a pivot table, choose "Counties" as the rows, and add COUNTA "CalFireincident" as Values.
   <img src="https://user-images.githubusercontent.com/69986804/128896978-96dc59e9-9083-4c7a-9951-2656dd5b029c.png" width=50%, height=50%>
@@ -139,3 +139,8 @@ Regarding additional sources, I would use the statistics of wildfires on CalFire
 <img src="https://user-images.githubusercontent.com/69986804/128122540-958e12d3-90cf-4e25-a526-342ea463e4a5.png"  width=50% height=50%>
 
 Link: //www.datawrapper.de/_/EKQT7/
+
+<img src="https://user-images.githubusercontent.com/69986804/129111960-ca82fa5b-eaf3-4deb-a137-02ae1e78f3a9.png" width=50% height=50%>
+
+Link: //www.datawrapper.de/_/DbONi/
+
