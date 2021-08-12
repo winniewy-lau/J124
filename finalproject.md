@@ -40,6 +40,7 @@ Based on the findings, we see a trend of increaing number and severeness of wild
 ### Human Sources
 
 - CalFire Northern Region Chief,	Mike Bradley, (530) 224-2460, and CalFire Southern Region Chief,	Dave Fulcher,	 (559) 243-4127 for their comments on the wildfire trend. 
+
 - Experts in wildfires, for example, 
   - UCLA Climate scientist, Daniel Swain, PhD, (dlswain@ucla.edu). 
     - He studies how the atmospheric phenomena increases the risk of severe wildfires. His insight would add the relationship between climate change and wildfire to the story. 
