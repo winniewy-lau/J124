@@ -1,8 +1,9 @@
 
-# J124 Final Project: California Wildfires 2013-2019 - Winnie Lau
-2013-2019 California wildfires data from California Department of Forestry and Fire Protection (Cal Fire)
+# J124 Data Journalism Final Project: California Wildfires 2013-2019 
+By Winnie Lau, Journalism student at the University of California Berkeley 
 
-## Part 1. Story summary and sourcing
+Data: 2013-2019 California wildfires dataset from California Department of Forestry and Fire Protection (Cal Fire)
+## Part 1. Story Summary and Sourcing
 
 ### Data Analysis Summary (More detailed analysis process in Part 3)
 
@@ -28,7 +29,7 @@ I would interview CalFire Northern Region Chief,	Mike Bradley, (530) 224-2460, a
 
 Regarding additional sources, I would use the statistics of wildfires on CalFire website (https://www.fire.ca.gov/stats-events/), because it tells us the most updated statisitics, including the fires in 2020 and 2021. I would also use the report on "Top 20 Largest California Wildfires" by CalFire (https://www.fire.ca.gov/media/4jandlhh/top20_acres.pdf), because it tells us the trend of more severe wildfire in California. The report shows that five out of the top 6 largest California Wildfires occurred in 2020 and 2021. The acres burned by the August Complex in 2020 and Dixie Fire in 2021 have surpassed the Mendocino Complex in 2018 which was the largest wildifre in 2013-2019,
 
-## Part 2. Data visualization
+## Part 2. Data Visualization
 
 <img src="https://user-images.githubusercontent.com/69986804/129123310-dac63066-73b5-4020-b49a-d8b41b30c75b.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/69986804/129123419-6557e50a-daee-4fe2-8e50-a8d1a4f3181f.png" width=50% height=50%>
 
@@ -36,11 +37,13 @@ Link: https://www.datawrapper.de/_/EKQT7/
 
 Link: https://www.datawrapper.de/_/DbONi/
 
-## Part 3. Data analysis process
+## Part 3. Data Analysis Process
 
 **Step 1: Download the cvs file dataset from https://www.kaggle.com/ananthu017/california-wildfire-incidents-20132020.**
 
 **Step 2: Import the cvs file into Google Drive and open it as Google Form.**
+
+Link to the original dataset and analysis in Google Form: https://docs.google.com/spreadsheets/d/1rnnjETdAG5IrVzZyMy7MB_zTS0gO9lA4MQA07RFwrDk/edit?usp=sharing
 
 **Step 3: Look up unclear terms**
 - What does "Major incidents" represent? 
@@ -62,9 +65,6 @@ Link: https://www.datawrapper.de/_/DbONi/
   9. What were the count of wildfire in each month over 2013-2019?
 
 **Step 6: Analyze the data and find the answers**
-
-First, bold and freeze the column names. 
-  
 
 ### Question 1. How many wildfire in total in 2013-2019? What are the top 5 counties with the highest number of wildfire?
   
