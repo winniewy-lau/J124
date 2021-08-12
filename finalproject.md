@@ -58,7 +58,8 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
 <details>
   <summary> Question 1. How many wildfire in total in 2013-2019? What are the top 5 counties with the highest number of wildfire? </summary>
     <br>
-      1.1 Create a pivot table, choose "Counties" as the rows, and add COUNTA "CalFireincident" as Values.
+  
+    1.1 Create a pivot table, choose "Counties" as the rows, and add COUNTA "CalFireincident" as Values.
   <img src="https://user-images.githubusercontent.com/69986804/128896978-96dc59e9-9083-4c7a-9951-2656dd5b029c.png" width=50%, height=50%>
 
     1.2 Copy and paste the result into a new tab. Add column titles "County" and "# WildFire". Freeze and bold the titles. 
@@ -75,11 +76,13 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
     Question 2. How many major wildfire in 2013-2019? What are the top 5 counties with the highest number of major wildfire?
      </summary>
     <br> 
+  
     2.1 Go back to the pivot table. Add a filter of "Major Incident: True"
-<img width="603" alt="Screen Shot 2021-08-10 at 9 28 20 AM" src="https://user-images.githubusercontent.com/69986804/128899703-9fda8054-fba7-4c6a-9d14-ea0a5e17a4a3.png" width=50%, height=50%> 
+  <img width="603" alt="Screen Shot 2021-08-10 at 9 28 20 AM" src="https://user-images.githubusercontent.com/69986804/128899703-9fda8054-fba7-4c6a-9d14-ea0a5e17a4a3.png" width=50%, height=50%> 
 
     2.2 Copy and paste the result into a new tab. Add column titles "County" and "# Major Incident". Freeze and bold the titles. 
     2.3 Sort the "# Major Incident" column descendingly.
+  
  **Result:** 
   - 383 major wildfire occurred in 2013-2019.
   
