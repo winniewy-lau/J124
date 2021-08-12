@@ -33,9 +33,9 @@ Regarding additional sources, I would use the statistics of wildfires on CalFire
 
 <img src="https://user-images.githubusercontent.com/69986804/129123310-dac63066-73b5-4020-b49a-d8b41b30c75b.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/69986804/129134117-4c2f223f-62fa-4357-82a4-c053f1ceece1.png" width=50% height=50%>
 
-Link: https://www.datawrapper.de/_/EKQT7/
+Link to the map "Number of Wildfires in California in 2013-2019": https://www.datawrapper.de/_/EKQT7/
 
-Link: https://www.datawrapper.de/_/DbONi/
+Link to the map "Acres Burned by Wildfires in California in 2013-2019": https://www.datawrapper.de/_/DbONi/
 
 ## Part 3. Data Analysis Process
 
