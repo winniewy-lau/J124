@@ -1,3 +1,4 @@
+
 # J124 Final Project: California Wildfires 2013-2019 - Winnie Lau
 Intro to Data Journalism Markdown Final Project Process
 
@@ -136,7 +137,7 @@ Regarding additional sources, I would use the statistics of wildfires on CalFire
 
 **Data visualization**
 
-<img src="https://user-images.githubusercontent.com/69986804/129123310-dac63066-73b5-4020-b49a-d8b41b30c75b.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/69986804/129111960-ca82fa5b-eaf3-4deb-a137-02ae1e78f3a9.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/69986804/129123310-dac63066-73b5-4020-b49a-d8b41b30c75b.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/69986804/129123419-6557e50a-daee-4fe2-8e50-a8d1a4f3181f.png" width=50% height=50%>
 
 Link: https://www.datawrapper.de/_/EKQT7/
 
