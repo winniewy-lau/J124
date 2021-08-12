@@ -4,7 +4,7 @@
 
 ## Part 1. Story summary and sourcing
 
-### Data Summary (More detailed analysis in Part 3)
+### Data Analysis Summary (More detailed analysis process in Part 3)
 
 **Number of wildfire**
 
