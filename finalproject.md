@@ -21,7 +21,7 @@ Data: 2013-2019 California wildfires dataset from California Department of Fores
 
 **Timing**
 
-The data also shows that there is a trend of wildfires starting later than previous years. 
+- The data also shows that there is a trend of wildfires starting later than previous years. 
 
 ### Additional Sources
 
