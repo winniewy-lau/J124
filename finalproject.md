@@ -32,7 +32,7 @@ Regarding additional sources, I would use the statistics of wildfires on CalFire
 
 ## Part 2. Data Visualization
 
-<img src="https://user-images.githubusercontent.com/69986804/129123310-dac63066-73b5-4020-b49a-d8b41b30c75b.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/69986804/129123419-6557e50a-daee-4fe2-8e50-a8d1a4f3181f.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/69986804/129123310-dac63066-73b5-4020-b49a-d8b41b30c75b.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/69986804/129133409-9c7ffe49-d59b-4c53-aec4-7cabb2f93cc2.png" width=50% height=50%>
 
 Link: https://www.datawrapper.de/_/EKQT7/
 
