@@ -56,109 +56,125 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
 **Step 5: Think of questions for the dataset, analyze the data and find the answers**
 
 <details>
-  <summary> Question 1. How many wildfire in total in 2013-2019? What are the top 5 counties with the highest number of wildfire? </summary>
+  <summary> Question 1. How many wildfire in total in 2013-2019? What are the top 5 counties with the highest number of wildfire? 
+    
+  - 1636 wildfire occurred in 2013-2019.
+
+ <img width="220" alt="Screen Shot 2021-07-26 at 11 35 26 AM" src="https://user-images.githubusercontent.com/69986804/127040763-3c4f3f79-d91e-4863-bb25-bfe15a958cd5.png">
+  </summary>
     <br>
+  Steps
   
     1.1 Create a pivot table, choose "Counties" as the rows, and add COUNTA "CalFireincident" as Values.
   <img src="https://user-images.githubusercontent.com/69986804/128896978-96dc59e9-9083-4c7a-9951-2656dd5b029c.png" width=50%, height=50%>
 
     1.2 Copy and paste the result into a new tab. Add column titles "County" and "# WildFire". Freeze and bold the titles. 
     1.3 Sort the "# WildFire" column descendingly.
-  **Result:** 
-  - 1636 wildfire occurred in 2013-2019.
 
- <img width="220" alt="Screen Shot 2021-07-26 at 11 35 26 AM" src="https://user-images.githubusercontent.com/69986804/127040763-3c4f3f79-d91e-4863-bb25-bfe15a958cd5.png">
 
 </details>
     
 <details>
   <summary>
     Question 2. How many major wildfire in 2013-2019? What are the top 5 counties with the highest number of major wildfire?
-     </summary>
-    <br> 
+    
+  - 383 major wildfire occurred in 2013-2019.
   
+  <img width="217" alt="Screen Shot 2021-07-26 at 11 49 35 AM" src="https://user-images.githubusercontent.com/69986804/127042635-aa07e41a-e1ae-480e-b94c-0c2e309a354e.png">
+    
+   </summary>
+   <br> 
+  
+  Steps
     2.1 Go back to the pivot table. Add a filter of "Major Incident: True"
   <img width="603" alt="Screen Shot 2021-08-10 at 9 28 20 AM" src="https://user-images.githubusercontent.com/69986804/128899703-9fda8054-fba7-4c6a-9d14-ea0a5e17a4a3.png" width=50%, height=50%> 
 
     2.2 Copy and paste the result into a new tab. Add column titles "County" and "# Major Incident". Freeze and bold the titles. 
     2.3 Sort the "# Major Incident" column descendingly.
-  
- **Result:** 
-  - 383 major wildfire occurred in 2013-2019.
-  
-  <img width="217" alt="Screen Shot 2021-07-26 at 11 49 35 AM" src="https://user-images.githubusercontent.com/69986804/127042635-aa07e41a-e1ae-480e-b94c-0c2e309a354e.png">
-      </details>
+
+ </details>
 
 <details>
-  <summary> Question 3. How has the number of total wildfire changed  over the years? </summary>
+  <summary> Question 3. How has the number of total wildfire changed  over the years? <br>
+    <img width="139" alt="Screen Shot 2021-07-26 at 12 00 09 PM" src="https://user-images.githubusercontent.com/69986804/127043871-06163c5e-17f1-4c94-a1cf-ae441395919b.png">
+  
+  </summary>
   <br>
    
+  Steps
+  
     3.1 Make a new pivot table. Choose "Archive Year" as the row. Add COUNTA "CalFireincident" as Values.
     3.2 Copy and paste the result into a new tab. Add column titles "Year" and "# Wildfire". Freeze and bold the titles. 
-    
- **Result:**  
-    
-  <img width="139" alt="Screen Shot 2021-07-26 at 12 00 09 PM" src="https://user-images.githubusercontent.com/69986804/127043871-06163c5e-17f1-4c94-a1cf-ae441395919b.png">
-
+   
   </details>
   
 <details>
-  <summary> Question 4. How has the number of major wildifre changed over the years? </summary>
+  <summary> Question 4. How has the number of major wildifre changed over the years?<br>
+    <img width="174" alt="Screen Shot 2021-07-26 at 12 01 45 PM" src="https://user-images.githubusercontent.com/69986804/127044073-96142669-4673-4bce-9a3e-0f1d55c5744e.png">
+  
+  </summary>
   <br>
+  
+  Steps
     
     4.1 Go back to the pivot table. Add a filter of "Major Incident: True"
    <img src="https://user-images.githubusercontent.com/69986804/128897271-c795f56a-4f8d-4ca1-a324-6bf33449141d.png" width=50%, height=50%>
 
     4.2 Copy and paste the result into a new tab. Add column titles "Year" and "# Wildfire". Freeze and bold the titles. 
-    
-  **Result:**  
-  
-   <img width="174" alt="Screen Shot 2021-07-26 at 12 01 45 PM" src="https://user-images.githubusercontent.com/69986804/127044073-96142669-4673-4bce-9a3e-0f1d55c5744e.png">
-
+   
   </details>
   
 <details>
-  <summary> Question 5. What are the top 3 deadliest wildfire? </summary>
+  <summary> Question 5. What are the top 3 deadliest wildfire? <br>
+    <img width="502" alt="Screen Shot 2021-08-10 at 10 13 25 AM" src="https://user-images.githubusercontent.com/69986804/128904507-fb27dfd7-20df-49a7-9481-2da80632c943.png">
+  
+  </summary>
   <br>
+  
+  Steps
   
     5.1 Go to the original tab.  
     5.2 Sort the "Fatalities" column descendingly. 
     5.3 Create a new tab and put the Top 3 most deadliest Fire to it. Include the Name, Fatalities, Year and County. 
-    
-  **Result:** 
-  
-  <img width="502" alt="Screen Shot 2021-08-10 at 10 13 25 AM" src="https://user-images.githubusercontent.com/69986804/128904507-fb27dfd7-20df-49a7-9481-2da80632c943.png">
+   
   </details>
   
 <details>
-  <summary> Question 6. What are the top 3 wildfire with largest burned area? </summary>
+  <summary> Question 6. What are the top 3 wildfire with largest burned area? 
+    <img width="573" alt="Screen Shot 2021-07-27 at 2 55 09 PM" src="https://user-images.githubusercontent.com/69986804/127232686-5a82dd0d-217e-4654-80b4-b5dc8a8943d5.png">
+  
+  </summary>
   <br>
+  
+  Steps
   
     6.1 Go to the original tab.  
     6.2 Sort the "AcresBurned" column descendingly. 
     6.3 Create a new tab and put the Top 4 most burned Fire to it. Include the Name, AcresBurned, Year and County. 
-    
-  **Result:**  
-  
-  <img width="573" alt="Screen Shot 2021-07-27 at 2 55 09 PM" src="https://user-images.githubusercontent.com/69986804/127232686-5a82dd0d-217e-4654-80b4-b5dc8a8943d5.png">
+
 </details>
 
 <details>
-  <summary> Question 7. How are trend of areas burned by wildfires in 2013-2019? </summary>
+  <summary> Question 7. How is trend of areas burned by wildfires in 2013-2019? <br>
+    <img width="237" alt="Screen Shot 2021-08-02 at 3 12 31 PM" src="https://user-images.githubusercontent.com/69986804/127932327-5cf48638-b6f4-4fed-9096-7e982a5a2358.png">
+  </summary>
   <br>
 
+  Steps
+  
     7.1 Create a new pivot table. 
     7.2 Choose "Archive Year" as the row. Add SUM "AcresBurned" as Values.
     
-  **Result:** 
-   
-<img width="237" alt="Screen Shot 2021-08-02 at 3 12 31 PM" src="https://user-images.githubusercontent.com/69986804/127932327-5cf48638-b6f4-4fed-9096-7e982a5a2358.png">
-
   </details>
 
 <details>
-  <summary> Question 8. What were the count of wildfire in each month over 2013-2019? </summary>
+  <summary> Question 8. What were the count of wildfire in each month over 2013-2019?
+   <img width="602" alt="Screen Shot 2021-07-27 at 3 26 41 PM" src="https://user-images.githubusercontent.com/69986804/127235575-9ae2e9fd-07da-43a4-ae0c-5d1c24bfb5de.png">
+  
+  </summary>
   <br>
+  
+  Steps
   
     8.1 Go to the original tab.  Create a new column left to the column "Started" and named it "Started Clean". 
     8.2 In the AF2 cell, type =left(AG2,10). Apply the function to the whole column.
@@ -175,10 +191,7 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
     8.9 Maunally make the year as columns.
    <img src="https://user-images.githubusercontent.com/69986804/128898244-23df6b65-202a-4c8d-841c-d8383da4d2d9.png" width=50%, height=50%>
     
-    8.10 Make a chart. 
-    
-  **Result:** 
+    8.10 Make a chart on Google Sheet. 
    
- <img width="602" alt="Screen Shot 2021-07-27 at 3 26 41 PM" src="https://user-images.githubusercontent.com/69986804/127235575-9ae2e9fd-07da-43a4-ae0c-5d1c24bfb5de.png">
   
   </details>
