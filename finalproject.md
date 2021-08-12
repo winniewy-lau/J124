@@ -70,7 +70,7 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
 **Step 4: Clean the dataset**
   - freeze and bold the first row
   - look for error or anomalies
-    - The dataset was name 2013-2020, but un fact there is no entries of fires in 2020.
+    - The dataset was named 2013-2020, but in fact there is no entries of fires in 2020.
     - Note that there are entries of the same fire but they are in different locations, counties or year, so we should keep them. 
     - I was hoping to find out how the duration of fires has changed over the year, but some enties do not have the extinguished date. So I wasn't able to do that out of this dataset alone.
 
@@ -110,6 +110,7 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
    <br> 
   
   Steps
+  
     2.1 Go back to the pivot table. Add a filter of "Major Incident: True"
   <img width="603" alt="Screen Shot 2021-08-10 at 9 28 20 AM" src="https://user-images.githubusercontent.com/69986804/128899703-9fda8054-fba7-4c6a-9d14-ea0a5e17a4a3.png" width=50%, height=50%> 
 
