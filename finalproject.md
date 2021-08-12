@@ -114,8 +114,9 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
 
 <details>
   <summary> Question 3. How has the number of total wildfire changed  over the years? <br>
-    <img width="139" alt="Screen Shot 2021-07-26 at 12 00 09 PM" src="https://user-images.githubusercontent.com/69986804/127043871-06163c5e-17f1-4c94-a1cf-ae441395919b.png">
-    <img width="544" alt="Screen Shot 2021-08-12 at 9 30 04 AM" src="https://user-images.githubusercontent.com/69986804/129233680-7affec1a-dd3f-41ee-956e-ea503ea18a04.png">
+    
+ <img width="139" alt="Screen Shot 2021-07-26 at 12 00 09 PM" src="https://user-images.githubusercontent.com/69986804/127043871-06163c5e-17f1-4c94-a1cf-ae441395919b.png">
+ <img width="544" alt="Screen Shot 2021-08-12 at 9 30 04 AM" src="https://user-images.githubusercontent.com/69986804/129233680-7affec1a-dd3f-41ee-956e-ea503ea18a04.png">
   
   </summary>
   <br>
@@ -129,8 +130,9 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
   
 <details>
   <summary> Question 4. How has the number of major wildifre changed over the years?<br>
-    <img width="174" alt="Screen Shot 2021-07-26 at 12 01 45 PM" src="https://user-images.githubusercontent.com/69986804/127044073-96142669-4673-4bce-9a3e-0f1d55c5744e.png">
-    <img width="543" alt="Screen Shot 2021-08-12 at 9 30 46 AM" src="https://user-images.githubusercontent.com/69986804/129233700-f99027d5-b04b-4f09-a343-8336d999a465.png">
+    
+ <img width="174" alt="Screen Shot 2021-07-26 at 12 01 45 PM" src="https://user-images.githubusercontent.com/69986804/127044073-96142669-4673-4bce-9a3e-0f1d55c5744e.png">
+ <img width="543" alt="Screen Shot 2021-08-12 at 9 30 46 AM" src="https://user-images.githubusercontent.com/69986804/129233700-f99027d5-b04b-4f09-a343-8336d999a465.png">
 
   
   </summary>
@@ -147,7 +149,8 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
   
 <details>
   <summary> Question 5. What are the top 3 deadliest wildfire? <br>
-    <img width="502" alt="Screen Shot 2021-08-10 at 10 13 25 AM" src="https://user-images.githubusercontent.com/69986804/128904507-fb27dfd7-20df-49a7-9481-2da80632c943.png">
+    
+ <img width="502" alt="Screen Shot 2021-08-10 at 10 13 25 AM" src="https://user-images.githubusercontent.com/69986804/128904507-fb27dfd7-20df-49a7-9481-2da80632c943.png">
   
   </summary>
   <br>
