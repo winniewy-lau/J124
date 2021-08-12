@@ -97,6 +97,8 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
 <details>
   <summary> Question 3. How has the number of total wildfire changed  over the years? <br>
     <img width="139" alt="Screen Shot 2021-07-26 at 12 00 09 PM" src="https://user-images.githubusercontent.com/69986804/127043871-06163c5e-17f1-4c94-a1cf-ae441395919b.png">
+    <img width="543" alt="Screen Shot 2021-08-12 at 9 27 45 AM" src="https://user-images.githubusercontent.com/69986804/129233239-a8e6de3f-fbdd-49ac-b78e-60bb3059c67f.png">
+
   
   </summary>
   <br>
