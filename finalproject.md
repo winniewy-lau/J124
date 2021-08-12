@@ -23,11 +23,13 @@ The data also shows that there is a trend of wildfires starting later than previ
 
 Based on the findings, we see a trend of increaing number and severeness of wildfires. This data story will be about the trend of California wildfire and the atmospheric and geographical factors affecting the scale and severeness of the wildfires. In particular, the story will focus on the relationship between climate change and the severeness of wildfire. 
 
-### Story Sourcing
+### Additional Sources
+
+I would use the statistics of wildfires on CalFire website (https://www.fire.ca.gov/stats-events/), because it tells us the most updated statistics, including the fires in 2020 and 2021. I would also use the report on "Top 20 Largest California Wildfires" by CalFire (https://www.fire.ca.gov/media/4jandlhh/top20_acres.pdf), because it tells us the trend of more severe wildfire in California. The report shows that five out of the top 6 largest California Wildfires occurred in 2020 and 2021. The acres burned by the 2020 August Complex and active 2021 Dixie Fire have surpassed the Mendocino Complex in 2018 which was the largest wildfire in 2013-2019. 
+
+### Human Sources
 
 I would interview CalFire Northern Region Chief,	Mike Bradley, (530) 224-2460, and CalFire Southern Region Chief,	Dave Fulcher,	 (559) 243-4127 for their comments on the wildfire trend. I would also interview experts in wildfires, for example, UCLA Climate scientist, Daniel Swain, PhD, (dlswain@ucla.edu). He studies how the atmospheric phenomena increases the risk of severe wildfires. His insight would add the relationship between climate change and wildfire to the story. I would also interview UC Davis Department of Public Health Sciences Professor Irva Hertz-Picciotto (ihp@ucdavis.edu). She studies the potential health impacts of wildfire, smoke and ash. She would add the impact of wildfires to the story. 
-
-Regarding additional sources, I would use the statistics of wildfires on CalFire website (https://www.fire.ca.gov/stats-events/), because it tells us the most updated statistics, including the fires in 2020 and 2021. I would also use the report on "Top 20 Largest California Wildfires" by CalFire (https://www.fire.ca.gov/media/4jandlhh/top20_acres.pdf), because it tells us the trend of more severe wildfire in California. The report shows that five out of the top 6 largest California Wildfires occurred in 2020 and 2021. The acres burned by the 2020 August Complex and active 2021 Dixie Fire have surpassed the Mendocino Complex in 2018 which was the largest wildfire in 2013-2019,
 
 ## Part 2. Data Visualization
 
