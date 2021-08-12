@@ -76,6 +76,8 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
   - 1636 wildfire occurred in 2013-2019.
 
  <img width="220" alt="Screen Shot 2021-07-26 at 11 35 26 AM" src="https://user-images.githubusercontent.com/69986804/127040763-3c4f3f79-d91e-4863-bb25-bfe15a958cd5.png">
+ <img width="544" alt="Screen Shot 2021-08-12 at 9 59 28 AM" src="https://user-images.githubusercontent.com/69986804/129237813-f7e006f9-f7cf-4915-a544-a3af3dd4de64.png">
+
   </summary>
     <br>
   Steps
@@ -96,7 +98,8 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
   - 383 major wildfire occurred in 2013-2019.
   
   <img width="217" alt="Screen Shot 2021-07-26 at 11 49 35 AM" src="https://user-images.githubusercontent.com/69986804/127042635-aa07e41a-e1ae-480e-b94c-0c2e309a354e.png">
-    
+  <img width="545" alt="Screen Shot 2021-08-12 at 10 00 21 AM" src="https://user-images.githubusercontent.com/69986804/129237839-6784cfd7-7b5a-4f4a-9149-507e917a4f20.png">
+
    </summary>
    <br> 
   
