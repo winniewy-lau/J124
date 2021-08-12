@@ -1,4 +1,3 @@
-
 # J124 Data Journalism Final Project: California Wildfires 2013-2019 
 By Winnie Lau, Journalism student at the University of California Berkeley 
 
@@ -32,7 +31,7 @@ Regarding additional sources, I would use the statistics of wildfires on CalFire
 
 ## Part 2. Data Visualization
 
-<img src="https://user-images.githubusercontent.com/69986804/129123310-dac63066-73b5-4020-b49a-d8b41b30c75b.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/69986804/129133409-9c7ffe49-d59b-4c53-aec4-7cabb2f93cc2.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/69986804/129123310-dac63066-73b5-4020-b49a-d8b41b30c75b.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/69986804/129134117-4c2f223f-62fa-4357-82a4-c053f1ceece1.png" width=50% height=50%>
 
 Link: https://www.datawrapper.de/_/EKQT7/
 
@@ -58,8 +57,8 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
 
 <details>
   <summary> Question 1. How many wildfire in total in 2013-2019? What are the top 5 counties with the highest number of wildfire? </summary>
-    <br> 
-    1.1 Create a pivot table, choose "Counties" as the rows, and add COUNTA "CalFireincident" as Values.
+    <br>
+      1.1 Create a pivot table, choose "Counties" as the rows, and add COUNTA "CalFireincident" as Values.
   <img src="https://user-images.githubusercontent.com/69986804/128896978-96dc59e9-9083-4c7a-9951-2656dd5b029c.png" width=50%, height=50%>
 
     1.2 Copy and paste the result into a new tab. Add column titles "County" and "# WildFire". Freeze and bold the titles. 
