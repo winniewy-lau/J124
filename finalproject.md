@@ -9,11 +9,15 @@ Data: 2013-2019 California wildfires dataset from California Department of Fores
 
 **Number of wildfire**
 
-The wildfires were concentrated in Riverside and San Diego counties in Southern California and Butte county in Northern California. The number of wildfires has increased 2.7 times from 162 in 2013 to 438 in 2017 and then dropped to 266 in 2019. 
+- The wildfires were concentrated in Riverside and San Diego counties in Southern California and Butte county in Northern California. 
+- The number of wildfires has increased 2.7 times from 162 in 2013 to 438 in 2017 and then dropped to 266 in 2019. 
 
 **Severeness of Wildfires**
 
-The size of wildfire fluctuated between 450 thousands to 600 thousands acres in 2013-2016 and significantly increased to 1.7 million in 2017 and even 3.4 million acres in 2018. It dropped to 280 thousand acres in 2019. The top 3 counties with the largest acres burned are Lake, Mendocino, and Trinity near the Northern California Coast. The top 3 deadliest wildifires occurred in Northern California in 2017 and 2018 -- Camp Fire (2018) in Butte County, Tubbs Fire (2017) in Napa and Sonoma counties, and Redwood Valley Fire (2017) in Mendocino county. Camp Fire remains the deadliest wildfire in California's history. 
+- The size of wildfire fluctuated between 450 thousands to 600 thousands acres in 2013-2016 and significantly increased to 1.7 million in 2017 and even 3.4 million acres in 2018. It dropped to 280 thousand acres in 2019. 
+- The top 3 counties with the largest acres burned are Lake, Mendocino, and Trinity near the Northern California Coast. 
+- The top 3 deadliest wildifires occurred in Northern California in 2017 and 2018 -- Camp Fire (2018) in Butte County, Tubbs Fire (2017) in Napa and Sonoma counties, and Redwood Valley Fire (2017) in Mendocino county.
+  - Camp Fire remains the deadliest wildfire in California's history. 
 
 **Timing**
 
