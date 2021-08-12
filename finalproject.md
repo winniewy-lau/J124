@@ -27,7 +27,7 @@ Based on the findings, we see a trend of increaing number and severeness of wild
 
 I would interview CalFire Northern Region Chief,	Mike Bradley, (530) 224-2460, and CalFire Southern Region Chief,	Dave Fulcher,	 (559) 243-4127 for their comments on the wildfire trend. I would also interview experts in wildfires, for example, UCLA Climate scientist, Daniel Swain, PhD, (dlswain@ucla.edu). He studies how the atmospheric phenomena increases the risk of severe wildfires. His insight would add the relationship between climate change and wildfire to the story. I would also interview UC Davis Department of Public Health Sciences Professor Irva Hertz-Picciotto (ihp@ucdavis.edu). She studies the potential health impacts of wildfire, smoke and ash. She would add the impact of wildfires to the story. 
 
-Regarding additional sources, I would use the statistics of wildfires on CalFire website (https://www.fire.ca.gov/stats-events/), because it tells us the most updated statistics, including the fires in 2020 and 2021. I would also use the report on "Top 20 Largest California Wildfires" by CalFire (https://www.fire.ca.gov/media/4jandlhh/top20_acres.pdf), because it tells us the trend of more severe wildfire in California. The report shows that five out of the top 6 largest California Wildfires occurred in 2020 and 2021. The acres burned by the August Complex in 2020 and Dixie Fire in 2021 have surpassed the Mendocino Complex in 2018 which was the largest wildfire in 2013-2019,
+Regarding additional sources, I would use the statistics of wildfires on CalFire website (https://www.fire.ca.gov/stats-events/), because it tells us the most updated statistics, including the fires in 2020 and 2021. I would also use the report on "Top 20 Largest California Wildfires" by CalFire (https://www.fire.ca.gov/media/4jandlhh/top20_acres.pdf), because it tells us the trend of more severe wildfire in California. The report shows that five out of the top 6 largest California Wildfires occurred in 2020 and 2021. The acres burned by the 2020 August Complex and active 2021 Dixie Fire have surpassed the Mendocino Complex in 2018 which was the largest wildfire in 2013-2019,
 
 ## Part 2. Data Visualization
 
@@ -177,21 +177,33 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
   Steps
   
     8.1 Go to the original tab.  Create a new column left to the column "Started" and named it "Started Clean". 
-    8.2 In the AF2 cell, type =left(AG2,10). Apply the function to the whole column.
-    8.3 Copy and paste the column into a new tab
-    8.4 Find and replace - into /. Change the column format into Datetime.
-    8.5 Copy and paste the column back to the original tab.
-   <img src="https://user-images.githubusercontent.com/69986804/128897627-526f02bd-6e1d-4a9b-a3fa-76178683f25d.png" width=50%, height=50%>
+    8.2 In the AG2 cell, type =left(AH2,10). Apply the function to the whole column.
+<img width="289" alt="Screen Shot 2021-08-11 at 10 10 25 PM" src="https://user-images.githubusercontent.com/69986804/129141443-05adde90-d8ae-4dec-8f2c-235e2c18eec6.png">
+
+    8.3 Created a new sheet and then copy and paste the column into it. Use "Paste with values only". 
+  <img width="562" alt="Screen Shot 2021-08-11 at 10 10 38 PM" src="https://user-images.githubusercontent.com/69986804/129141500-1d310619-2bed-4f10-bd75-6cc701540f87.png">
+
+    8.4 Find and replace - into /.
+  <img width="492" alt="Screen Shot 2021-08-11 at 10 12 50 PM" src="https://user-images.githubusercontent.com/69986804/129141641-d9b5f13c-271d-4eba-aeb0-a1e7cd444d8d.png">
+
+    8.5 Change the column format into Date.
+  
+  <img width="551" alt="Screen Shot 2021-08-11 at 10 15 08 PM" src="https://user-images.githubusercontent.com/69986804/129141815-7cca6e58-ef3b-4657-9e98-2eba7ae9d690.png">
+
+    8.6 Copy and paste the column back to the original tab.
+    8.7 Create a new pivot table. Choose "Started Clean" as rows and SUM "CalFireincident" as values.
+    8.8 Right click one of the cells in the "StartClean" column. Select "Create pivot date group" and "Year". 
+  
+  <img width="830" alt="Screen Shot 2021-08-11 at 10 18 40 PM" src="https://user-images.githubusercontent.com/69986804/129142153-93dfe71a-4606-48b9-9232-e19c580808b6.png">
+  
+    8.9 Add one more row of "Started Clean" and select ""Create pivot date group" and "Year-Month". 
+  
+  <img width="832" alt="Screen Shot 2021-08-11 at 10 19 01 PM" src="https://user-images.githubusercontent.com/69986804/129142276-21902047-1c17-4e25-bde1-b167755565a4.png">
     
-    8.6 Create a new pivot table. Choose "Started Clean" as rows and SUM "CalFireincident" as values.
-    8.7 Right click one of the cells in the "StartClean" column. Select "Create pivot date group" and "Year-Month". 
-   <img src="https://user-images.githubusercontent.com/69986804/128898049-7b8bd6dc-3c1b-4408-a20d-e0bac9723d7d.png" width=50%, height=50%>
-    
-    8.8 Copy and paste the result into a new tab.
-    8.9 Maunally make the year as columns.
-   <img src="https://user-images.githubusercontent.com/69986804/128898244-23df6b65-202a-4c8d-841c-d8383da4d2d9.png" width=50%, height=50%>
-    
-    8.10 Make a chart on Google Sheet. 
-   
+    8.10 Copy and paste the result into a new tab.
+    8.11 Maunally make the year as columns.
+    8.12 Make a chart on Google Sheet. 
+  
+  <img width="734" alt="Screen Shot 2021-08-11 at 10 23 26 PM" src="https://user-images.githubusercontent.com/69986804/129142520-e007499c-fae4-484b-9fdd-07eb520f76c5.png">
   
   </details>
