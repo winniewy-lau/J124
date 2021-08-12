@@ -1,4 +1,3 @@
-![EKQT7-number-of-wildfire-in-california-in-2013-2019 (3)](https://user-images.githubusercontent.com/69986804/129123302-567bb51d-718d-4e54-a347-2d9aeca8816d.png)
 # J124 Final Project: California Wildfires 2013-2019 - Winnie Lau
 Intro to Data Journalism Markdown Final Project Process
 
