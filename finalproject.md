@@ -78,7 +78,7 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
   - 1636 wildfire occurred in 2013-2019.
 
  <img width="220" alt="Screen Shot 2021-07-26 at 11 35 26 AM" src="https://user-images.githubusercontent.com/69986804/127040763-3c4f3f79-d91e-4863-bb25-bfe15a958cd5.png">
- <img width="544" alt="Screen Shot 2021-08-12 at 9 59 28 AM" src="https://user-images.githubusercontent.com/69986804/129237813-f7e006f9-f7cf-4915-a544-a3af3dd4de64.png">
+ <img src="https://user-images.githubusercontent.com/69986804/129237813-f7e006f9-f7cf-4915-a544-a3af3dd4de64.png" width=50%, height=50%>
 
   </summary>
     <br>
@@ -100,7 +100,7 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
   - 383 major wildfire occurred in 2013-2019.
   
   <img width="217" alt="Screen Shot 2021-07-26 at 11 49 35 AM" src="https://user-images.githubusercontent.com/69986804/127042635-aa07e41a-e1ae-480e-b94c-0c2e309a354e.png">
-  <img width="545" alt="Screen Shot 2021-08-12 at 10 00 21 AM" src="https://user-images.githubusercontent.com/69986804/129237839-6784cfd7-7b5a-4f4a-9149-507e917a4f20.png">
+  <img src="https://user-images.githubusercontent.com/69986804/129237839-6784cfd7-7b5a-4f4a-9149-507e917a4f20.png" width=50%, height=50%>
 
    </summary>
    <br> 
@@ -118,7 +118,7 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
   <summary> Question 3. How has the number of total wildfire changed  over the years? <br>
     
  <img width="139" alt="Screen Shot 2021-07-26 at 12 00 09 PM" src="https://user-images.githubusercontent.com/69986804/127043871-06163c5e-17f1-4c94-a1cf-ae441395919b.png">
- <img width="544" alt="Screen Shot 2021-08-12 at 9 30 04 AM" src="https://user-images.githubusercontent.com/69986804/129233680-7affec1a-dd3f-41ee-956e-ea503ea18a04.png">
+ <img src="https://user-images.githubusercontent.com/69986804/129233680-7affec1a-dd3f-41ee-956e-ea503ea18a04.png" width=50%, height=50%>
   
   </summary>
   <br>
@@ -134,7 +134,7 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
   <summary> Question 4. How has the number of major wildifre changed over the years?<br>
     
  <img width="174" alt="Screen Shot 2021-07-26 at 12 01 45 PM" src="https://user-images.githubusercontent.com/69986804/127044073-96142669-4673-4bce-9a3e-0f1d55c5744e.png">
- <img width="543" alt="Screen Shot 2021-08-12 at 9 30 46 AM" src="https://user-images.githubusercontent.com/69986804/129233700-f99027d5-b04b-4f09-a343-8336d999a465.png">
+ <img src="https://user-images.githubusercontent.com/69986804/129233700-f99027d5-b04b-4f09-a343-8336d999a465.png" width=50%, height=50%>
 
   
   </summary>
@@ -183,7 +183,7 @@ Link to the original dataset and analysis in Google Form: https://docs.google.co
 <details>
   <summary> Question 7. How is trend of areas burned by wildfires in 2013-2019? <br>
     <img width="237" alt="Screen Shot 2021-08-02 at 3 12 31 PM" src="https://user-images.githubusercontent.com/69986804/127932327-5cf48638-b6f4-4fed-9096-7e982a5a2358.png">
-   <img width="542" alt="Screen Shot 2021-08-12 at 9 33 44 AM" src="https://user-images.githubusercontent.com/69986804/129234137-483a5613-be1c-432d-bae0-9fcf11e09d09.png">
+   <img src="https://user-images.githubusercontent.com/69986804/129234137-483a5613-be1c-432d-bae0-9fcf11e09d09.png" width=50%, height=50%>
 
 
   </summary>
