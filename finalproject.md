@@ -19,13 +19,13 @@ The size of wildfire fluctuated between 450 thousands to 600 thousands acres in 
 
 The data also shows that there is a trend of wildfires starting later than previous years. 
 
-### Story Idea
-
-Based on the findings, we see a trend of increaing number and severeness of wildfires. This data story will be about the trend of California wildfire and the atmospheric and geographical factors affecting the scale and severeness of the wildfires. In particular, the story will focus on the relationship between climate change and the severeness of wildfire. 
-
 ### Additional Sources
 
 I would use the statistics of wildfires on CalFire website (https://www.fire.ca.gov/stats-events/), because it tells us the most updated statistics, including the fires in 2020 and 2021. I would also use the report on "Top 20 Largest California Wildfires" by CalFire (https://www.fire.ca.gov/media/4jandlhh/top20_acres.pdf), because it tells us the trend of more severe wildfire in California. The report shows that five out of the top 6 largest California Wildfires occurred in 2020 and 2021. The acres burned by the 2020 August Complex and active 2021 Dixie Fire have surpassed the Mendocino Complex in 2018 which was the largest wildfire in 2013-2019. 
+
+### Story Idea
+
+Based on the findings, we see a trend of increaing number and severeness of wildfires. This data story will be about the trend of California wildfire and the atmospheric and geographical factors affecting the scale and severeness of the wildfires. In particular, the story will focus on the relationship between climate change and the severeness of wildfire. 
 
 ### Human Sources
 
